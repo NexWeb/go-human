@@ -1,3 +1,5 @@
+package human
+
 import "reflect"
 
 // IsNilOrEmpty checks if a passed interface is either nil or of
