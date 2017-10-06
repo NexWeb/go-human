@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"io"
 )
-
+  // FlushableBuffer 
 type FlushableBuffer struct {
 	*bytes.Buffer
 	stream io.Writer
